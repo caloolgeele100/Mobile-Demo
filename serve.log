@@ -1,0 +1,21 @@
+ INFO  Accepting connections at http://localhost:8088
+ HTTP  6/16/2026 1:03:20 PM ::1 GET /
+ HTTP  6/16/2026 1:03:20 PM ::1 Returned 200 in 31 ms
+ HTTP  6/16/2026 1:03:41 PM 127.0.0.1 GET /
+ HTTP  6/16/2026 1:03:41 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/16/2026 1:03:41 PM 127.0.0.1 GET /
+ HTTP  6/16/2026 1:03:41 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/16/2026 1:04:36 PM ::1 GET /
+ HTTP  6/16/2026 1:04:36 PM ::1 Returned 200 in 2 ms
+ HTTP  6/16/2026 1:04:36 PM ::1 GET /_expo/static/js/web/index-1d376c04c5379053ee2a91aac5edfb95.js
+ HTTP  6/16/2026 1:04:36 PM ::1 Returned 200 in 5 ms
+ HTTP  6/16/2026 8:28:09 PM 127.0.0.1 HEAD /
+ HTTP  6/16/2026 8:28:09 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/17/2026 2:41:29 PM ::1 GET /
+ HTTP  6/17/2026 2:41:29 PM ::1 Returned 200 in 2 ms
+ HTTP  6/17/2026 2:41:29 PM ::1 GET /
+ HTTP  6/17/2026 2:41:29 PM ::1 Returned 200 in 2 ms
+ HTTP  6/17/2026 2:42:04 PM ::1 GET /
+ HTTP  6/17/2026 2:42:04 PM ::1 Returned 200 in 3 ms
+
+ INFO  Gracefully shutting down. Please wait...
